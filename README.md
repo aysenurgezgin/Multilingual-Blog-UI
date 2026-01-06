@@ -2,16 +2,19 @@ miBlog — Multilingual Blog UI
 
 📌 Proje Özeti
 
-Bu proje, blog içeriklerinin İspanyolca dilinde gösterildiği, kullanıcı dostu bir UI tasarımıdır.
+Bu proje, blog içeriklerinin İspanyolca dilinde sunulduğu, kullanıcı dostu ve sade bir blog arayüzü tasarımıdır.
+Amaç, farklı dillerdeki içeriklerin anlaşılır ve düzenli şekilde kullanıcıya sunulmasını sağlamaktır.
 
 🎯 Amaç / Problem
 
-- Farklı dilde içerik gösterimi ihtiyacını karşılamak
-- Blog tarzı içerikler için sade ve net bir arayüz sağlamak
+Farklı dillerde içerik üreten blog platformlarında:
+Dil uyumunun sağlanması
+İçeriğin okunabilir ve sade bir yapıda sunulması
+ihtiyaçları bu projeyle ele alınmıştır.
 
 🛠️ Çözüm Yaklaşımı
 
-- HTML ve CSS kullanarak responsive (duyarlı) bir blog arayüzü tasarlandı
-- Tasarım İspanyolca içerikle zenginleştirildi
-- Kullanıcı deneyimi ve kültürel uyum gözetildi
-
+Bu ihtiyaçlar doğrultusunda:
+HTML ve CSS kullanılarak responsive (duyarlı) bir blog arayüzü tasarlandı
+Tasarım, İspanyolca içeriklere uygun olacak şekilde yapılandırıldı
+Kullanıcı deneyimi ve kültürel uyum ön planda tutuldu
