@@ -15,13 +15,3 @@ Bu proje, blog içeriklerinin İspanyolca dilinde gösterildiği, kullanıcı do
 - Tasarım İspanyolca içerikle zenginleştirildi
 - Kullanıcı deneyimi ve kültürel uyum gözetildi
 
-🧪 Kullanılan Teknolojiler
-
-- HTML
-- CSS
-
-📌 Nasıl Çalışır
-
-1. Dosyayı klonlayın
-2. Bir tarayıcıda açın
-3. Blog sayfalarını inceleyin
